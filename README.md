@@ -3,7 +3,7 @@
 
 ---
 
-🧍Background
+### 🧍Background
 
 My IT career started, as many things in life do, unexpectedly. Originally, I worked for a third-party data company where I learned how to write SQL queries to answer clients’ requests for marketing data. Little did I know at the time, but that experience sparked a passion in me to pursue IT. I landed my first IT job working for the US Air Force Help Desk in South Carolina.
 
