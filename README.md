@@ -5,8 +5,7 @@
 
 ### 👨‍💻 Cybersecurity Projects
 - 🕵️ **Threat Hunt Report** – Analyzing adversary tactics and writing detection logic.  
-- 🤖 **Research and Blog Posts - Researching various IT and Cybersecurity topics
-- 
+- 🤖 **Research and Blog Posts - Researching various AI, IT and Cybersecurity topics
 
 ---
 
