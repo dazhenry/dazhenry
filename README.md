@@ -33,7 +33,7 @@ My technical skills include Bash, Linux, KQL, PowerShell, Microsoft Sentinel, an
 ### 🌱 Currently Learning
 - **SOC Analyst AI Agent**  
 - **Incident Response Playbook Development**  
-- **Cloud Security** (Azure / AWS Threat Hunting)  
+- **Cloud Security (Azure / AWS Threat Hunting)**  
 
 ---
 
