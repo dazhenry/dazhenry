@@ -14,7 +14,8 @@ My technical skills include Bash, Linux, KQL, PowerShell, Microsoft Sentinel, an
 ---
 
 ### 👨‍💻 Cybersecurity Projects
-- 🕵️ **Threat Hunt Reports** – Analyzing adversary tactics and writing detection logic.  
+- 🕵️ **Threat Hunt Reports** – Analyzing adversary tactics and writing detection logic.
+  - Papertrail Threat Hunt Report (https://bit.ly/4m3yBKA)  
 - 🤖 **Research and Blog Posts** - Researching various AI, IT and Cybersecurity topics
 
 ---
