@@ -17,7 +17,7 @@ My technical skills include Bash, Linux, KQL, PowerShell, Microsoft Sentinel, an
 - 🕵️ **Threat Hunt Reports** – Analyzing adversary tactics and writing detection logic.
   - Papertrail Threat Hunt Report (https://bit.ly/4m3yBKA)  
 - 🤖 **Research and Blog Posts** - Researching various AI, IT and Cybersecurity topics
-
+  - Gemini 2.5 Beat Pokémon Blue, But Here's Why It's Less Impressive Than You Think (http://bit.ly/4mYJuie)
 ---
 
 ### 🧰 Tech Toolbox
