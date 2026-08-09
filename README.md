@@ -1,26 +1,34 @@
 <h1 align="center">Hi 👋, I'm Daz</h1>
-<h3 align="center">🔐 Aspiring Cybersecurity Professional | Threat Hunter | Blue Team Ops</h3>
+<h3 align="center"> Aspiring Cybersecurity Professional | Threat Hunter | Blue Team Ops</h3>
 
 ---
 
-### 🧍Background
+### Background
 
-My IT career started, as many things in life do, unexpectedly. Originally, I worked for a third-party data company where I learned how to write SQL queries to answer clients’ requests for marketing data. Little did I know at the time, but that experience sparked a passion in me to pursue IT. I landed my first IT job working for the US Air Force Help Desk in South Carolina.
+My IT career started, as many things in life do, unexpectedly.
 
-After a year and a half, I moved overseas and am now a System Administrator with over three years of experience. I enjoy solving complex issues, researching and learning about new technologies, and teaching people different IT concepts. However, with any technology, I have always been cautious. That cautiousness, combined with my passion for protecting privacy and my firsthand understanding of how data can be used against us from working in the third-party data space, has driven me to pursue a career in cybersecurity. Also, I’ve always been a big fan of detective shows and movies, and these days, Threat Hunting is what I find most exciting.
+I got my start at a third-party data company, writing SQL queries to answer marketing requests I only half understood at the time. Turns out that was the spark. A year and a half later I was on the US Air Force Help Desk in South Carolina, learning IT the way most of us do: by breaking things and figuring out why.
 
-My technical skills include Bash, Linux, KQL, PowerShell, Microsoft Sentinel, and Microsoft Defender for Endpoint. I hold multiple certifications such as CISSP, Pentest+, CySA+, SAL1 (TryHackMe), Network+, Security+, and A+, alongside a Bachelor's degree in Cybersecurity from Western Governors University.
+I moved overseas not long after, and these days I'm a Security Engineer with a System Administrator's instincts still fully intact. I work with clients on Cloud Security best practices, Incident Response, and helping organizations implement AI safely, which is a nice way of saying I get paid to ask "but what could go wrong here" more than most people find polite.
+
+That question isn't new for me. Working in third-party data taught me early how information gets used, and not always in ways people signed up for. That's the throughline: a healthy suspicion of shiny new tech, paired with a genuine love of learning how it works. Add a lifelong habit of devouring detective shows and movies, and it's no surprise Threat Hunting is where I light up most. Turns out chasing an adversary through logs scratches the same itch as watching a good procedural. Just with worse writing and higher stakes.
+
+Technical skills: Bash, Linux, KQL, PowerShell, Microsoft Sentinel, Microsoft Defender for Endpoint
+
+Certifications: CISSP, Pentest+, CySA+, SAL1 (TryHackMe), AZ-104, Network+, Security+, A+
+
+Education: B.S. in Cybersecurity, Western Governors University
 
 ---
 
-### 👨‍💻 Cybersecurity Projects
-- 🕵️ **Threat Hunt Reports** – Analyzing adversary tactics and writing detection logic.
+### Cybersecurity Projects
+- **Threat Hunt Reports** – Analyzing adversary tactics and writing detection logic.
   - Papertrail Threat Hunt Report (https://bit.ly/4m3yBKA)  
-- 🤖 **Research and Blog Posts** - Researching various AI, IT and Cybersecurity topics
+-  **Research and Blog Posts** - Researching various AI, IT and Cybersecurity topics
   - Gemini 2.5 Beat Pokémon Blue, But Here's Why It's Less Impressive Than You Think (http://bit.ly/4mYJuie)
 ---
 
-### 🧰 Tech Toolbox
+### Tech Toolbox
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
@@ -31,14 +39,14 @@ My technical skills include Bash, Linux, KQL, PowerShell, Microsoft Sentinel, an
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - **SOC Analyst AI Agent**  
 - **Incident Response Playbook Development**  
 - **Cloud Security (Azure / AWS Threat Hunting)**  
 
 ---
 
-### 🤳 Connect with Me
+### Connect with Me
 <p>
   <a href="https://linkedin.com/in/daz.henry" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="daz linkedin" width="30" />
@@ -47,4 +55,4 @@ My technical skills include Bash, Linux, KQL, PowerShell, Microsoft Sentinel, an
 
 ---
 
-⭐️ Thanks for visiting my profile! Feel free to explore my projects or connect with me.
+Thanks for visiting my profile! Feel free to explore my projects or connect with me.
